@@ -1,0 +1,19 @@
+ Reflexión de la Semana 6
+=========================
+
+Es fundamental que las plataformas tecnológicas puedan recibir reportes e
+información enviada por los ciudadanos de forma estructurada, porque permite
+que las comunidades participen activamente en la solución de sus problemas.
+Cuando un ciudadano puede reportar una incidencia desde su teléfono o
+computador, se elimina la necesidad de desplazarse físicamente a una oficina,
+ahorrando tiempo y recursos.
+
+La información estructurada en formato JSON garantiza que los datos lleguen
+ordenados y completos, facilitando su procesamiento automático. Esto reduce
+errores y permite atender los reportes de manera más rápida y eficiente.
+Además, al almacenar los datos organizados, las autoridades pueden identificar
+patrones y tomar decisiones basadas en evidencia real.
+
+Finalmente, estas plataformas fortalecen la transparencia y la confianza entre
+la comunidad y las instituciones, construyendo una participación más activa
+y democrática en la gestión del territorio.

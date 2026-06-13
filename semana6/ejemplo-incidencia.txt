@@ -1,0 +1,14 @@
+ Ejemplo de JSON para reportar una incidencia ciudadana
+======================================================
+
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque central no funciona desde hace varios días, generando inseguridad en las noches."
+}
+
+El servidor respondería con:
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque central no funciona desde hace varios días, generando inseguridad en las noches."
+}
