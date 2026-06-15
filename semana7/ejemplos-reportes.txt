@@ -1,0 +1,14 @@
+Ejemplos de reportes ciudadanos
+================================
+
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público del parque central, varias lámparas no funcionan desde hace una semana."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en la esquina de la carrera 5 con calle 12, no ha sido recogida en más de 5 días."
+}

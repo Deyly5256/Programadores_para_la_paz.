@@ -1,0 +1,20 @@
+Reflexión de la Semana 7
+=========================
+
+Es importante que las comunidades puedan registrar y consultar reportes
+en una plataforma tecnológica porque esto permite que los problemas del
+entorno sean visibles, organizados y atendidos de manera más eficiente.
+Cuando un ciudadano puede reportar una incidencia desde su dispositivo,
+la información llega de forma inmediata a quienes tienen la responsabilidad
+de actuar, reduciendo los tiempos de respuesta y evitando que los problemas
+pasen desapercibidos.
+
+Además, consultar los reportes existentes permite que la comunidad esté
+informada sobre las situaciones que afectan su entorno y pueda hacer
+seguimiento a las soluciones. Esto genera transparencia y confianza entre
+los ciudadanos y las instituciones. Una plataforma que organiza esta
+información mediante rutas GET y POST, como la que construimos esta semana,
+demuestra cómo la tecnología puede convertirse en una herramienta de
+participación comunitaria real, donde registrar y consultar datos es el
+primer paso para transformar una situación problemática en una solución
+concreta.
