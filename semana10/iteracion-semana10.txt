@@ -1,0 +1,13 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+2. Como miembro del equipo quiero consultar reportes para hacer seguimiento.
+
+¿Por qué son las más importantes?
+Elegí estas dos porque representan el inicio y el cierre del ciclo básico de trabajo: 
+primero se necesita capturar la información del ciudadano, y luego el equipo debe poder consultarla para darle seguimiento y tomar decisiones. 
+Sin estas dos funciones, el resto del sistema no tendría sentido, ya que no habría datos que gestionar ni forma de darles continuidad.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+- Fue revisada por al menos otra persona del equipo, no solo por quien la desarrolló.
+- Cumple con lo que se pidió inicialmente, sin funciones a medias.
+- Está subida al repositorio con un mensaje de commit claro que explique qué se hizo.

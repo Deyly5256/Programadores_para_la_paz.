@@ -1,0 +1,8 @@
+Las metodologías ágiles ayudan a organizar mejor una comunidad porque permiten dividir el trabajo en tareas priorizadas y avanzar por partes pequeñas, 
+en lugar de intentar resolver todo de una vez. 
+Esto facilita revisar el progreso constantemente y corregir errores a tiempo.
+El uso de un backlog permite reunir todas las tareas pendientes en un solo lugar, 
+evitando que se pierdan en conversaciones dispersas o cuadernos individuales. Así, todo el equipo sabe qué está pendiente, en desarrollo o terminado.
+Herramientas como n8n permiten automatizar tareas repetitivas, como enviar recordatorios o clasificar reportes, liberando tiempo del equipo para el análisis y la toma de decisiones importantes.
+Telegram, por su parte, funciona como un canal directo de comunicación con la comunidad, permitiendo enviar alertas y coordinar acciones de manera rápida.
+Sin embargo, estas herramientas deben usarse con responsabilidad, evitando automatizar información sensible y manteniendo siempre una revisión humana en las decisiones importantes.
