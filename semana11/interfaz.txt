@@ -1,0 +1,6 @@
+La interfaz estaría dividida en dos partes principales: una zona de consulta pública y una zona de gestión para usuarios autenticados.
+En la parte pública, los visitantes verían una vista de causas disponibles organizadas en tarjetas, cada una mostrando el título, una breve descripción y el contador de apoyos recibidos hasta el momento.
+Al ingresar con su cuenta, el usuario tendría acceso a un formulario para crear una nueva causa, indicando título,
+descripción y fecha, así como un botón de apoyo visible en cada tarjeta para que pueda respaldar las causas que le interesen.
+Esta separación entre lo público y lo autenticado permite que cualquier persona pueda informarse libremente sobre las causas de la comunidad, 
+mientras que las acciones de creación y apoyo quedan reservadas a usuarios identificados, protegiendo así la integridad del sistema.
