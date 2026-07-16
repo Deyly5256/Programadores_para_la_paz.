@@ -1,4 +1,4 @@
- lo largo de todo el curso pude construir un recorrido que fue mucho más allá de aprender comandos o herramientas sueltas: entendí cómo la tecnología puede ponerse al servicio de la participación ciudadana y la organización comunitaria de forma concreta. 
+A lo largo de todo el curso pude construir un recorrido que fue mucho más allá de aprender comandos o herramientas sueltas: entendí cómo la tecnología puede ponerse al servicio de la participación ciudadana y la organización comunitaria de forma concreta. 
 Desde las primeras semanas, en las que trabajamos los fundamentos de programación y el manejo de terminal, hasta el desarrollo de sistemas completos como "Petición en 3 Clics", fui viendo cómo cada bloque de conocimiento se iba conectando con el siguiente: 
 sin una base sólida en backend y bases de datos no habría sido posible estructurar la información de una causa ciudadana; sin entender automatización no habría podido imaginar cómo mantener informada a una comunidad sin depender de revisiones manuales constantes; 
 y sin abordar la seguridad de los datos, cualquier plataforma construida habría quedado vulnerable y poco confiable para quienes la usan.
