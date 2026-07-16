@@ -1,0 +1,18 @@
+Automatización simple - Petición en 3 Clics
+
+Evento que activa la automatización:
+Una causa alcanza un número determinado de apoyos (por ejemplo, 50 apoyos registrados).
+
+Mensaje que se envía:
+"¡Una causa acaba de alcanzar 50 apoyos! Revisa la plataforma para ver el avance y considera generar el documento de petición formal."
+
+Herramienta usada:
+n8n conectado a un webhook de la base de datos, que dispara un mensaje automático a un canal o grupo de Telegram cuando se cumple la condición.
+
+Información que NO debe enviarse por seguridad:
+- Cédulas o documentos de identidad de las personas que apoyan.
+- Números de teléfono.
+- Direcciones físicas o ubicaciones exactas.
+- Comentarios sensibles o cualquier dato personal que permita identificar de forma privada a un ciudadano.
+
+Solo debe compartirse información agregada y no sensible, como el nombre de la causa y el número total de apoyos, para mantener la privacidad de las personas involucradas.
